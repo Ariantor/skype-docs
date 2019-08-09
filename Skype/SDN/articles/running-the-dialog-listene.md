@@ -12,7 +12,7 @@ ms.assetid: f405de17-b1be-419e-a301-4055a4dfdaad
     
     
 
- **Applies to**: Lync Server 2013 | Skype for Business 2015
+ **Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
 
 This section describes how to run the Dialog Listener as a Windows service and console application. 
   
