@@ -10,7 +10,7 @@ ms.assetid: 2113f2b8-80b2-4110-a021-ad7df2d2b517
 
   
 
- **Applies to**: Lync Server 2013 | Skype for Business 2015
+ **Applies to**: Lync Server 2013 | Skype for Business 2015| Skype for Business 2019
 
 The following is an example of the SDN Manager configuration file (SDNManager.exe.config). 
   
