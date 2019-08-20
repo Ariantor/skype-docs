@@ -12,7 +12,7 @@ ms.assetid: c96be8c9-4498-4cfa-82c4-44e1e396ec3f
     
     
 
- **Applies to**: Lync Server 2013 | Skype for Business 2015
+ **Applies to**: Lync Server 2013 | Skype for Business 2015 | Skype for Business 2019
  
 Installing a trusted root certificate is necessary only if you are notified that the certificate of authority is not trusted on any machine. This can occur when you use a private or custom certificate server instead of acquiring certificates from an established public certificate of authority.
   
